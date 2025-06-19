@@ -80,3 +80,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+
+  ### "AI is not just the future, it's the present. Let's build it together."
+
+</div>
