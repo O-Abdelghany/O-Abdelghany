@@ -1,18 +1,20 @@
 # 👋 Hi there, I'm Omar Abd El Ghany!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Machine+Learning+Practitioner;Turning+Data+into+Intelligence" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on challenging Artificial Intelligence projects
-- 🌱 Continuously learning and exploring new technologies
-- 👯 Looking to collaborate on innovative open-source projects
+- 🤖 Passionate about building and deploying Artificial Intelligence and Machine Learning solutions
+- 🧠 Experienced in Deep Learning, Computer Vision, and Natural Language Processing
+- 🔬 Always exploring the latest AI research and trends
+- 💡 Skilled in transforming ideas into intelligent, real-world applications
+- 👯 Looking to collaborate on innovative AI open-source projects
 - 📫 Reach me at: omarabdelghannyy@gmail.com
-- ⚡ Fun fact: I love turning ideas into reality through code
+- ⚡ Fun fact: I love teaching computers to see, read, and learn!
 
 ---
 
@@ -20,10 +22,17 @@
 
 <div align="center">
   
+## AI & ML Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+
 ## Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -46,6 +55,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 
 </div>
+
+---
+
+## 🤖 AI Projects
+
+- 🏆 **Image Classifier:** Built a deep learning model to classify images with high accuracy using TensorFlow and PyTorch.
+- 📝 **NLP Chatbot:** Developed a conversational AI chatbot leveraging Natural Language Processing techniques in Python.
+- 🧠 **Reinforcement Learning Agent:** Designed and trained RL agents to solve classic control problems.
+- 🧩 **AI for Data Analysis:** Automated data preprocessing and feature engineering for real-world datasets using scikit-learn and pandas.
+
+*Want to know more? Check out the repositories below or contact me directly!*
 
 ---
 
@@ -79,10 +99,10 @@
 
 ## 🎯 Current Goals
 
-- 🚀 Contribute to more open-source projects
-- 📚 Master advanced software architecture patterns
-- 🌐 Build scalable and impactful applications
-- 🤝 Connect with fellow developers and share knowledge
+- 🚀 Develop and deploy state-of-the-art AI models in real-world applications
+- 🏅 Compete and collaborate in AI/ML competitions (Kaggle, DrivenData, etc.)
+- 📚 Stay up-to-date with the latest AI research, trends, and technologies
+- 🤝 Connect with fellow AI practitioners to share knowledge and innovate
 
 ---
 
@@ -96,6 +116,7 @@
   <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
+  <!-- Add your Kaggle or AI blog links if available -->
 
 </div>
 
@@ -107,6 +128,6 @@
 
 <div align="center">
   
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### "AI is not just the future, it's the present. Let's build it together."
   
 </div>
