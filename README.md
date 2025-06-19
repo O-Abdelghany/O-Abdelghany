@@ -1,17 +1,16 @@
 # 👋 Hi there, I'm Omar Abd El Ghany!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on challenging full-stack projects
+- 🔭 Currently working on challenging Artificial Intelligence projects
 - 🌱 Continuously learning and exploring new technologies
 - 👯 Looking to collaborate on innovative open-source projects
-- 💬 Ask me about web development, programming, or tech in general
 - 📫 Reach me at: omarabdelghannyy@gmail.com
 - ⚡ Fun fact: I love turning ideas into reality through code
 
