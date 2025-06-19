@@ -1,33 +1,24 @@
 # 👋 Hi there, I'm Omar Abd El Ghany!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Machine+Learning+Practitioner;Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Passionate about building and deploying Artificial Intelligence and Machine Learning solutions
-- 🧠 Experienced in Deep Learning, Computer Vision, and Natural Language Processing
-- 🔬 Always exploring the latest AI research and trends
-- 💡 Skilled in transforming ideas into intelligent, real-world applications
-- 👯 Looking to collaborate on innovative AI open-source projects
+- 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and their real-world impact
+- 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
+- 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
+- 🌱 Always exploring new technologies and keeping up with the latest trends in AI
 - 📫 Reach me at: omarabdelghannyy@gmail.com
-- ⚡ Fun fact: I love teaching computers to see, read, and learn!
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-## AI & ML Frameworks  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
 
 ## Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -58,76 +49,34 @@
 
 ---
 
-## 🤖 AI Projects
+## ⚙️ AI Interests
 
-- 🏆 **Image Classifier:** Built a deep learning model to classify images with high accuracy using TensorFlow and PyTorch.
-- 📝 **NLP Chatbot:** Developed a conversational AI chatbot leveraging Natural Language Processing techniques in Python.
-- 🧠 **Reinforcement Learning Agent:** Designed and trained RL agents to solve classic control problems.
-- 🧩 **AI for Data Analysis:** Automated data preprocessing and feature engineering for real-world datasets using scikit-learn and pandas.
+- I am currently exploring various areas of artificial intelligence, including:
+  - Machine Learning fundamentals
+  - Neural networks and deep learning concepts
+  - Data preprocessing and visualization
+  - Real-world AI applications and ethical AI
 
-*Want to know more? Check out the repositories below or contact me directly!*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Abdelghany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Abdelghany&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Abdelghany&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=O-Abdelghany&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-Abdelghany&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+- I am committed to developing my AI skills and contributing to projects as my experience grows.
 
 ---
 
 ## 🎯 Current Goals
 
-- 🚀 Develop and deploy state-of-the-art AI models in real-world applications
-- 🏅 Compete and collaborate in AI/ML competitions (Kaggle, DrivenData, etc.)
-- 📚 Stay up-to-date with the latest AI research, trends, and technologies
-- 🤝 Connect with fellow AI practitioners to share knowledge and innovate
+- 🚀 Gain hands-on experience with AI/ML through personal and collaborative projects
+- 📚 Master core AI concepts and algorithms
+- 🌱 Stay updated with the latest AI research and technologies
+- 🤝 Connect with fellow developers and AI enthusiasts
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-
   <a href="https://linkedin.com/in/omarabdelghany" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
-  <!-- Add your Kaggle or AI blog links if available -->
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=O-Abdelghany&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  ### "AI is not just the future, it's the present. Let's build it together."
-  
 </div>
