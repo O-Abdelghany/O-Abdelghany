@@ -1,90 +1,68 @@
-# 👋 Hi there, I'm Omar Abd El Ghany!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+
+# 👋 Hi there, I'm Omar Abd El Ghany
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI+Developer;Data+Analyst;Problem+Solver" alt="Typing SVG" />
+
+*“AI is not just the future, it's the present. Let's build it together.”*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarabdelghany)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelghannyy@gmail.com)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and their real-world impact
-- 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
-- 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
-- 🌱 Always exploring new technologies and keeping up with the latest trends in AI
-- 📫 Reach me at: omarabdelghannyy@gmail.com
+I am an aspiring AI Developer and Data Enthusiast with a passion for transforming complex problems into elegant, intelligent solutions. My technical journey bridges the gap between traditional software engineering and modern artificial intelligence. 
+
+I enjoy turning raw data into actionable business insights, such as developing visualizations for ride-booking analytics, as well as building robust, user-friendly software, like Java-based graphical interfaces for management systems. Whether I am fine-tuning a machine learning model or writing meticulous technical documentation in LaTeX, I am driven by curiosity and a commitment to continuous growth.
+
+**🎯 What I'm currently focused on:**
+- 🧠 Deepening my knowledge in **Machine Learning**, neural networks, and data preprocessing.
+- 📊 Enhancing data analytics projects to extract meaningful business insights.
+- 💼 Actively seeking internships and collaborative open-source opportunities to apply my skills in real-world environments.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
+
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🌐 Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-
-## Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-## Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-
-## Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-
-## Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
-## Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Omar's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-## ⚙️ AI Interests
-
-- I am currently exploring various areas of artificial intelligence, including:
-  - Machine Learning fundamentals
-  - Neural networks and deep learning concepts
-  - Data preprocessing and visualization
-  - Real-world AI applications and ethical AI
-
-- I am committed to developing my AI skills and contributing to projects as my experience grows.
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Gain hands-on experience with AI/ML through personal and collaborative projects
-- 📚 Master core AI concepts and algorithms
-- 🌱 Stay updated with the latest AI research and technologies
-- 🤝 Connect with fellow developers and AI enthusiasts
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/omarabdelghany" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-  </a>
-</div>
+> **Note:** *Make sure to replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub username to activate the live stats!*
 
 ---
 
 <div align="center">
-
-  ### "AI is not just the future, it's the present. Let's build it together."
-
+  <i>Always open to discussing AI, software development, or exciting new opportunities!</i>
 </div>
