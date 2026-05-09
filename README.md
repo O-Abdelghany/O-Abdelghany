@@ -1,4 +1,52 @@
-icons/c/c-original.svg" alt="C" width="40" height="40"/>
+# 👋 Hi there, I'm Omar Abd El Ghany!
+
+
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+
+</div>
+
+
+
+---
+
+
+
+## 🚀 About Me
+
+
+
+- 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and their real-world impact
+
+- 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
+
+- 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
+
+- 🌱 Always exploring new technologies and keeping up with the latest trends in AI
+
+- 📫 Reach me at: omarabdelghannyy@gmail.com
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+
+
+<div align="center">
+
+
+
+## Programming Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
@@ -113,6 +161,8 @@ icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
 
 </div>
+
+
 
 ---
 
