@@ -1,48 +1,179 @@
-# ⚡ Omar Abd El Ghany
-**AI Developer | Data Architect | Software Engineer**
+# 👋 Hi there, I'm Omar Abd El Ghany!
 
-<p align="left">
-  <a href="https://linkedin.com/in/omarabdelghany"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:omarabdelghannyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
 
----
 
-### 🧬 Profile
-I build intelligent systems and clean interfaces. My work focuses on the intersection of **Artificial Intelligence** and **Practical Software Solutions**. From architecting data-driven insights for transport logistics to building robust management systems in Java, I focus on code that scales and logic that makes sense.
+<div align="center">
 
-- 🛠️ **Current Focus:** Advanced Deep Learning & Predictive Modeling.
-- 🧪 **Technical Interests:** Neural Network Architecture, Data Visualization, and System Optimization.
-- ✍️ **Documentation:** Strong advocate for clean technical writing and $\LaTeX$ precision.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+AI+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+
+</div>
+
+
 
 ---
 
-### 🧱 The Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Intelligence** | Python, Machine Learning, Neural Networks, Data Preprocessing |
-| **Development** | C++, Java, C, Node.js, Next.js, React |
-| **Data & Systems** | MySQL, MongoDB, Git, Linux |
-| **Design/Docs** | HTML5, CSS3, Tailwind, LaTeX |
 
----
+## 🚀 About Me
 
-### 📊 System Status
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
-### 📁 Featured Logic
-*   **Ride-Booking Intelligence:** Visualizing and analyzing business metrics to optimize ride-hailing efficiency.
-*   **Management Systems:** Engineering full-cycle Java GUIs for enterprise-level hotel management.
-*   **AI Research:** Constant experimentation with algorithms that bridge the gap between theory and real-world impact.
+- 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and their real-world impact
+
+- 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
+
+- 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
+
+- 🌱 Always exploring new technologies and keeping up with the latest trends in AI
+
+- 📫 Reach me at: omarabdelghannyy@gmail.com
+
+
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
-</p>
+
+
+## 🛠️ Tech Stack
+
+
+
+<div align="center">
+
+
+
+## Programming Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+
+
+## Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+
+
+
+## Backend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+
+
+
+## Database
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+
+
+
+## Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## ⚙️ AI Interests
+
+
+
+- I am currently exploring various areas of artificial intelligence, including:
+
+  - Machine Learning fundamentals
+
+  - Neural networks and deep learning concepts
+
+  - Data preprocessing and visualization
+
+  - Real-world AI applications and ethical AI
+
+
+
+- I am committed to developing my AI skills and contributing to projects as my experience grows.
+
+
+
+---
+
+
+
+## 🎯 Current Goals
+
+
+
+- 🚀 Gain hands-on experience with AI/ML through personal and collaborative projects
+
+- 📚 Master core AI concepts and algorithms
+
+- 🌱 Stay updated with the latest AI research and technologies
+
+- 🤝 Connect with fellow developers and AI enthusiasts
+
+
+
+---
+
+
+
+## 📫 Let's Connect!
+
+
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/omarabdelghany" target="_blank">
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+
+  </a>
+
+  <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+
+  </a>
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+  ### "AI is not just the future, it's the present. Let's build it together."
+
+
+
+</div>
