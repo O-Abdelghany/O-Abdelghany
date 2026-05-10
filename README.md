@@ -15,7 +15,7 @@
 - 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
 - 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
 - 🌱 Always exploring new technologies, keeping up with the latest trends in AI, and currently learning German
-- 📫 Reach me at: omarabdelghannyy@gmail.com
+- 📫 Reach me at: omar.abdelghannyy@gmail.com
 
 ---
 
