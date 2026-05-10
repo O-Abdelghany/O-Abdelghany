@@ -98,7 +98,7 @@
 </a>
 
 <a href="https://discord.com/users/legendpanda12" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="50"/>
 </a>
 
 </div>
