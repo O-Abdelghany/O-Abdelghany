@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### Programming Languages
+### **Programming Languages**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
@@ -35,7 +35,7 @@
 
 <br><br>
 
-### Frontend & Backend
+### **Frontend & Backend**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
@@ -45,7 +45,7 @@
 
 <br><br>
 
-### Database & Tools
+### **Database & Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
