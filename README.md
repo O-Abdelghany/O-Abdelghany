@@ -10,7 +10,7 @@
 
 - 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and their real-world impact
 - 🎓 Third-year Computer Science student at Misr International University (MIU), specializing in AI
-- 💼 Experienced in building intelligent systems, having completed an AI Internship at NTG Clarity and a 230+ hour AI scholarship at the Samsung Innovation Campus
+- 💼 Experienced in building intelligent systems, having completed an AI Internship at NTG Clarity and a 250+ hour AI scholarship at the Samsung Innovation Campus
 - 📢 Currently serving as Vice President of Media for the MIU ACPC club and previously a Computer Programming Co-Assistant
 - 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
 - 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
