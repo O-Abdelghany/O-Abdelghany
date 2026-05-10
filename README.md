@@ -88,12 +88,19 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/omarabdelghany" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-  </a>
+
+<a href="https://linkedin.com/in/omarabdelghany" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+</a>
+
+<a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+</a>
+
+<a href="https://discord.com/users/legendpanda12" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50"/>
+</a>
+
 </div>
 
 ---
