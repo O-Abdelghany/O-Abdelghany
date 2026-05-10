@@ -15,7 +15,7 @@
 - 🧠 Actively learning and experimenting with AI concepts, algorithms, and applications
 - 💡 Eager to collaborate on open-source projects, especially those involving intelligent systems
 - 🌱 Always exploring new technologies, keeping up with the latest trends in AI, and currently learning German
-- 📫 Reach me at: omar.abdelghannyy@gmail.com
+- 📫 Reach me at: <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">omar.abdelghannyy@gmail.com</a>
 
 ---
 
@@ -94,7 +94,7 @@
 </a>
 
 <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/white" width="50"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/>
 </a>
 
 <a href="https://discord.com/users/legendpanda12" target="_blank">
