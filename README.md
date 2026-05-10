@@ -94,7 +94,7 @@
 </a>
 
 <a href="mailto:omarabdelghannyy@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/>
+  <img src="https://cdn.simpleicons.org/gmail/white" width="50"/>
 </a>
 
 <a href="https://discord.com/users/legendpanda12" target="_blank">
